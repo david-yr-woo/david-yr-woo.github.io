@@ -1,6 +1,4 @@
-My Website
-
-Based off of template from:
+Based off of a template from:
 
 ## Creator
 
